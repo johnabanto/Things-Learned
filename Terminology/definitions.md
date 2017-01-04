@@ -1,0 +1,3 @@
+SEO - Search engine optimization is the process of affecting the visibility of a website or a web page in a web search engine's upaid results - often refferd to as "natural", "organic", or "earend" results.
+
+CMS - A content management system is a software application or set of related programs that are used to create and manage digital content. CMSes are typically used for enterprise content management (ECM) and web content management (WCM).
